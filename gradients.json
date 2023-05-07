@@ -1533,4 +1533,14 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+ 
+]
+[
+    {
+        …
+    },
+    {
+      "name": "Career",
+      "colors": ["#cb202d", "#dc1e28", "#3366cc"]
+    }
 ]
